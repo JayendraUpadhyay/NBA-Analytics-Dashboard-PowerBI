@@ -112,10 +112,4 @@ The project uses an NBA dataset containing:
 If you found this project helpful:
 - Star ⭐ the repository  
 - Fork 🍴 the project  
-- Share your feedback 💬  
-
----
-
-
-## 📁 Repository Structure
-
+- Share your feedback 💬 
